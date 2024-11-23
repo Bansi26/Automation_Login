@@ -1,5 +1,5 @@
 
-# FastAPI-JWT-Auth-Cookie
+# Automation_Login
 
 ## Overview
 This repository contains a FastAPI application that demonstrates a secure authentication system using JWT (JSON Web Tokens) and cookie management. The code showcases how to handle user logins, token generation, and verification, as well as protecting routes to ensure only authorized users can access them.
